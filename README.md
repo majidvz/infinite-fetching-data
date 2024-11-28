@@ -1,6 +1,7 @@
-#Infinite Scroll & Pagination 🔄
+# Infinite Scroll & Pagination 🔄
 A modern React project showcasing infinite scrolling, pagination, and data fetching, built with:
 
+## Built with
 ⚛️ ReactJS
 <br />
 🟦 TypeScript
